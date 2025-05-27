@@ -15,10 +15,10 @@ title: "JayWithClay"
 description: "TBD"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "https://jlanzen.github.io/JayWithClay/"
+baseurl: "JayWithClay"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://jlanzen.github.io/JayWithClay/"
+url: "https://jlanzen.github.io/"
 
 # Favicon
 favicon: images/favicon.png
